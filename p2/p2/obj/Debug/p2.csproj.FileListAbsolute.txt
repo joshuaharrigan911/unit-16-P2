@@ -1,0 +1,7 @@
+C:\Users\1336154\Desktop\p2\p2\obj\Debug\p2.csprojAssemblyReference.cache
+C:\Users\1336154\Desktop\p2\p2\obj\Debug\p2.csproj.CoreCompileInputs.cache
+C:\Users\1336154\Desktop\p2\p2\bin\Debug\p2.exe.config
+C:\Users\1336154\Desktop\p2\p2\bin\Debug\p2.exe
+C:\Users\1336154\Desktop\p2\p2\bin\Debug\p2.pdb
+C:\Users\1336154\Desktop\p2\p2\obj\Debug\p2.exe
+C:\Users\1336154\Desktop\p2\p2\obj\Debug\p2.pdb
